@@ -42,7 +42,7 @@ const Loginpage = (props) => {
         ) : (
           <>
             <img src={Im31} alt="Cart" />
-            <h1>Welcome to M-cart</h1>
+            <h1>Welcome to ELectroMart</h1>
             <h2>Please enter your details to log in</h2>
             <form onSubmit={props.handleSubmit}>
               <input
