@@ -14,11 +14,11 @@ const Footer = () => {
         <div className="about">
 
           <div>
-            <img src={shop} alt="" /><h1>Shop with M-cart</h1>
+            <img src={shop} alt="" /><h1>Shop with ELectroMart</h1>
           </div>
           <div>
             <p>
-            M-Cart is an intuitive and user-friendly e-commerce platform designed to streamline the online shopping experience. It offers a responsive shopping cart interface, allowing customers to easily view, modify, and manage their selected products. The website supports various payment methods and provides secure transactions. With features like product recommendations and promotional discounts, M-Cart enhances user engagement and boosts sales. Its clean design and efficient navigation make it a top choice for online retailers.
+            ELectroMart is an intuitive and user-friendly e-commerce platform designed to streamline the online shopping experience. It offers a responsive shopping cart interface, allowing customers to easily view, modify, and manage their selected products. The website supports various payment methods and provides secure transactions. With features like product recommendations and promotional discounts, ELectroMart enhances user engagement and boosts sales. Its clean design and efficient navigation make it a top choice for online retailers.
             </p>
           </div>
         </div>
