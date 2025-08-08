@@ -27,7 +27,7 @@ const Navbar = (props) => {
             <div className="navbar">
                 <div className="nav-logo">
                     <img src={Im31} alt="Cart" />
-                    <p>M-cart</p>
+                    <p>ELectroMart</p>
                 </div>
                 <ul className="nav-menu">
                     <li onClick={() => { setMenu("home") }}>
