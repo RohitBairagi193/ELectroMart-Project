@@ -13,12 +13,18 @@
     "react-toastify": "^10.0.6",
     "web-vitals": "^2.1.4"
   },
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  }
+,
   "eslintConfig": {
     "extends": [
       "react-app",
