@@ -18,10 +18,10 @@ useEffect(() => {
     else if (path.startsWith('/products')) setMenu('products');
     else if (path.startsWith('/about')) setMenu('about');
     else setMenu('');
-}, [location]); // sirf location pe depend karo
+}, [location]); 
 
 useEffect(() => {
-    localStorage.setItem('menu', menu); // ✅ updated menu save hoga
+    localStorage.setItem('menu', menu); 
 }, [menu]);
     return (
         <>
